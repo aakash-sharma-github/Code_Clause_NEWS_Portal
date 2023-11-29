@@ -12,12 +12,12 @@ This is a news portal website built using React that allows users to read news a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aakash-sharma-github/Code_Clause_NEWS_Portal.git
+   git clone https://github.com/aakash-sharma-github/NEWS_Portal.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd Code_Clause_NEWS_Portal
+   cd NEWS_Portal
    ```
 3. Install the project dependencies:
 
